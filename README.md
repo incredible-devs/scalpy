@@ -1,0 +1,2 @@
+# scalpy
+trading platform
